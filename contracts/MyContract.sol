@@ -6,7 +6,7 @@ pragma solidity 0.6.12;
  * @title Storage
  * @dev Store & retrieve value in a variable
  */
-contract Storage {
+contract MyContract {
 
     string name;
 
